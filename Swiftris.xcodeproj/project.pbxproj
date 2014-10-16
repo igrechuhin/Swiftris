@@ -109,13 +109,13 @@
 			children = (
 				09C3D2B919DC857000FB8921 /* Array2D.swift */,
 				099C17FA19D6A4CD0017554A /* AppDelegate.swift */,
+				0981439219EC4B6B001E5458 /* Block.swift */,
 				099C17FE19D6A4CD0017554A /* GameScene.swift */,
 				099C180019D6A4CD0017554A /* GameViewController.swift */,
 				099C180219D6A4CD0017554A /* Main.storyboard */,
 				099C180519D6A4CD0017554A /* Images.xcassets */,
 				099C180719D6A4CD0017554A /* LaunchScreen.xib */,
 				099C17F819D6A4CD0017554A /* Supporting Files */,
-				0981439219EC4B6B001E5458 /* Block.swift */,
 			);
 			path = Swiftris;
 			sourceTree = "<group>";
